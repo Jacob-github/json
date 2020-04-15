@@ -1,6 +1,5 @@
 {
-  "posts": [
-    {
+  "fruitMarket": {
       "items": [
         {
           "id": 1,
@@ -21,8 +20,7 @@
           "weight": "0.5"
         }
       ]
-    }
-  ],
+  },
   "profile": {
     "name": "typicode"
   }
