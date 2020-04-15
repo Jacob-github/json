@@ -6,19 +6,19 @@
           "id": 1,
           "name": "apple",
           "price": "1.00",
-          "unit": "$/kg",
+          "unit": "$/kg"
         },
         {
           "id": 2,
           "name": "orange",
           "price": "5.00",
-          "unit": "$/kg",
+          "unit": "$/kg"
         },
       ],
       "selections": [
         {
           "id": 1,
-          "weight": "0.5",
+          "weight": "0.5"
         }
       ]
     }
