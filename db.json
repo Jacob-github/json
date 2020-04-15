@@ -1,24 +1,24 @@
 {
   "posts": [
     {
-      items: [
+      "items": [
         {
-          id: 1,
-          name: "apple",
-          price: "1.00",
-          unit: "$/kg",
+          "id": 1,
+          "name": "apple",
+          "price": "1.00",
+          "unit": "$/kg",
         },
         {
-          id: 2,
-          name: "orange",
-          price: "5.00",
-          unit: "$/kg",
+          "id": 2,
+          "name": "orange",
+          "price": "5.00",
+          "unit": "$/kg",
         },
       ],
-      selections: [
+      "selections": [
         {
-          id: 1,
-          weight: 0.5,
+          "id": 1,
+          "weight": "0.5",
         }
       ]
     }
